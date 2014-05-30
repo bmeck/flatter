@@ -1,0 +1,14 @@
+{
+  "name": "flatter",
+  "version": "0.0.0",
+  "main": "flatter.js",
+  "bin": {
+    "flatter": "flatter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:bmeck/flatter.git",
+  "author": "bradleymeck",
+  "license": "MIT"
+}
